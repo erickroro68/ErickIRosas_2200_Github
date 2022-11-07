@@ -10,7 +10,7 @@ public class Exercise06_13 {
 	public static void main(String[] args) {
 		
 		//4s%20s\n is the number of whitespaces we see in the code
-		//Creating the 
+		//Creating the title
 		System.out.printf("%4s%20s\n","i","m(i)");
 		System.out.printf("%5s%19s\n","---","------");
 		//still need a loop
